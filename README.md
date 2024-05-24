@@ -1,1 +1,2 @@
 # Title-selector-extension
+"Tab Title selector" is a Chrome extension that fetches and stores the titles of active browser tabs, providing users with a convenient way to keep track of visited pages. With a click, users can instantly retrieve tab titles and manage their browsing history within the extension's intuitive interface. Streamlining tab organization, it enhances browsing efficiency for users.
